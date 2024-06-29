@@ -23,4 +23,3 @@ We welcome contributions from the community! Here's how you can get involved:
 
 - Email: contact@wrkstrm.me
 - Website: [https://wrkstrm.com](https://wrkstrm.com)
-- 
