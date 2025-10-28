@@ -1,25 +1,31 @@
 # Welcome to wrkstrm 👋
 
-## Hi there! 
+  Swift‑first tools, libraries, and apps.
 
-We're excited to have you here at the wrkstrm GitHub organization. Here's a quick overview to get you started:
+## About us
 
-### 🙋‍♀️ About Us
+wrkstrm builds Swift‑first tools and applications. We believe in language and its far‑reaching
+impact. We teach, document, and build to create delightful developer and user experiences.
 
-wrkstrm is an organization dedicated to Swift development. We believe in language and it's far ranging impact. We and are committed to teaching and leveraging it's power to create delightful user experiences.
+## What we build
 
-### 🌈 How to Contribute
+  - CLIA/Codex agents and typed CLI tooling (CommonShell, CommonProcess, CommonCLI)
+  - DocC utilities and palettes for accessible documentation
+  - SwiftPM templates and Foundry scaffolds for fast, consistent starts
+  - Tau apps (macOS/Catalyst) and supporting libraries
 
-We welcome contributions from the community! Here's how you can get involved:
+## How to contribute
 
-1. Look for issues labeled "good first issue" or "help wanted"
-1. Fork the repository, make your changes, and submit a pull request
+  1. Explore issues labeled “good first issue” or “help wanted”
+  2. Fork the repository and create a feature branch
+  3. Open a pull request with a clear summary and screenshots if visual
+  4. For larger changes, please open an issue first to discuss approach
 
-### 🍿 Fun Facts
-
-- Our team's founder started coding when the iOS 4 SDK was released.
-
-### 🧙 Get in Touch
+## 🧙 Get in touch
 
 - Email: contact@wrkstrm.me
-- Website: [https://wrkstrm.com](https://wrkstrm.com)
+- Website: https://wrkstrm.com
+
+## 🍿 Fun fact
+
+- Our founder started coding when the iOS 4 SDK was released.
