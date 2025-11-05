@@ -4,7 +4,7 @@
 
 ## About us
 
-wrkstrm builds Swift‑first tools and applications. We believe in language and its far‑reaching
+wrkstrm builds Swift‑first tools and applications. We believe in the language and its far‑reaching
 impact. We teach, document, and build to create delightful developer and user experiences.
 
 ## What we build
