@@ -12,4 +12,4 @@ Wrkstrm is the engineering core where we document complex system architectures, 
 - **mono:** The monorepo containing our core logic and tools.
 - **clia:** The Command Line Interface Agent.
 
-[Visit the Wrkstrm Documentation Site](https://wrkstrm.github.io)
+[Visit the Wrkstrm Documentation Site](https://wrkstrm.github.io/documentation/wrkstrm)
