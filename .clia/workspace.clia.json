@@ -5,5 +5,6 @@
     "allowMainWork": true,
     "requireWorktree": false
   },
-  "operator": {"profilePath": ".clia/profiles/operators/rismay/operator.clia.json"}
+  "operator": {"profilePath": ".clia/profiles/operators/rismay/operator.clia.json"},
+  "comms": {"autoControlChannelId": "1471285588400275572"}
 }
