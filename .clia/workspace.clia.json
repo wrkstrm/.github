@@ -4,5 +4,6 @@
   "gitWorkPolicy": {
     "allowMainWork": true,
     "requireWorktree": false
-  }
+  },
+  "operator": {"profilePath": ".clia/profiles/operators/rismay/operator.clia.json"}
 }

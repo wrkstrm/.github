@@ -1,0 +1,9 @@
+{
+  "$schema": "clia://schemas/operator-profiles/operator-profile.schema.json",
+  "schemaVersion": "0.1.0",
+  "operatorId": "rismay",
+  "discord": {
+    "userId": "579359517507190806",
+    "operatorChannelId": "1470724640749125643"
+  }
+}
